@@ -1,0 +1,124 @@
+/* CSS Document */
+
+h5 {
+	margin-top: 0;
+	margin-bottom: 2px;
+	margin-left: 0;
+}
+
+.nameTable{
+	margin-top: 19px;
+	padding-left: 0;
+}
+
+.date {
+	font-size: 10px;
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.names {
+	font-size: 10px;
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.number {
+	font-size: 10px;
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.paragraph {
+	color: #006699;
+	margin-bottom: 2px;
+}
+
+.firstParagraph {
+	margin-bottom: 18px;
+}
+
+.resume {
+	font-size: 10px;
+	margin-top: 0;
+	padding-top: 0;
+}
+
+#additionalInfo {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.txtarea {
+	margin: 0;
+	padding-top: 0;
+}
+
+td {
+	padding-top: 0px;
+	padding-bottom: 0;
+}
+
+.paragraph {
+	margin-bottom: 0;
+}
+
+.monthTitle {
+	margin-left: 2px;
+}
+
+.div1 {
+	margin-bottom: 24px;
+}
+
+.div2 {
+	margin-bottom: 24px;
+}
+
+.div3 {
+	margin-bottom: 18px;
+}
+
+.div4 {
+	margin-bottom: 18px;
+}
+
+.div5 {
+	margin-bottom: 18px;
+}
+
+.div7 {
+	margin-top: 12px;
+}
+
+.div8 {
+	margin-top: 12px;
+	margin-bottom: 18px;
+}
+
+.div9 {
+	margin-bottom: 14px;
+}
+
+.phoneTable {
+	margin-top:18px
+}
+
+.rep {
+	color: red;
+	margin-left: 3px;
+}
+
+.submitButton {
+	margin-left: 3px;
+}
+
+.joinUsBreak {
+	clear: both;
+}
+
+div.error {
+	display:block;
+	border:1px solid #F9B9B2;
+	background-color: #FFDFDF;
+}
